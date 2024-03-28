@@ -1144,6 +1144,11 @@ video {
     padding-bottom: 8rem;
   }
 
+  .sm\:py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
   .sm\:pr-0 {
     padding-right: 0px;
   }
